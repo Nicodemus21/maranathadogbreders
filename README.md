@@ -1,2 +1,2 @@
 # ecommerce-ui
-A UI for an italian food company's ecommerce platform
+A UI for an Electric Vehicles company's ecommerce platform
